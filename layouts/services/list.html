@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="service-page-container">
+  {{ partial "vip_service_cta.html" . }}
+
+  <div class="container section-padding">
+    <div class="service-page-wrapper">
+      <div class="service-body">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

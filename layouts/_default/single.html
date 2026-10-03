@@ -1,0 +1,44 @@
+{{ define "main" }}
+<div class="article-container container">
+  <nav class="breadcrumb">
+    <a href="/">首页</a> &gt; 
+    {{ with .Section }}<a href="/{{ . }}/">{{ . }}</a> &gt;{{ end }}
+    <span>{{ .Title }}</span>
+  </nav>
+
+  <article class="single-article">
+    <header class="article-header">
+      <h1 class="article-title">{{ .Title }}</h1>
+      <div class="article-meta">
+        <span>📅 更新时间：{{ .Date.Format "2006-01-02" }}</span>
+        <span>✍️ 编辑：机场典评测组</span>
+        <span>⏱️ 阅读预计：{{ .ReadingTime }} 分钟</span>
+      </div>
+    </header>
+
+    <div class="sr-only hidden-search-meta" style="display:none;" data-pagefind-body>
+      {{ range .Params.keywords }}{{ . }} {{ end }}
+      {{ range .Params.search_synonyms }}{{ . }} {{ end }}
+      {{ .Description }}
+    </div>
+
+    {{ if eq .Section "posts" }}
+      {{ partial "top4_airports.html" . }}
+    {{ end }}
+
+    <div class="article-body">
+      {{ .Content }}
+    </div>
+
+    <div class="article-footer-cta">
+      <h3>✈️ 需要快速选到最平稳加速服务？</h3>
+      <p>立即参考本站推荐的四项核心主推机场，使用优惠码可享折上折优惠！遇到订阅或客户端报错，欢迎联系官方社群。</p>
+      <div class="article-cta-btns">
+        <a href="https://varnexa.lingdongaff.com/#/?code=vFPRdc1J" target="_blank" rel="sponsored nofollow noopener" class="btn btn-primary">注册灵动云 (折上8折)</a>
+        <a href="https://flycat1.flycatvipaff.cc/#/?code=KRjsCIZV" target="_blank" rel="sponsored nofollow noopener" class="btn btn-secondary">注册飞猫云 (季付8折)</a>
+        <a href="https://t.me/+JngXxDbAxwA5NzVl" target="_blank" rel="noopener noreferrer" class="btn btn-tg">联系 Telegram 客服答疑</a>
+      </div>
+    </div>
+  </article>
+</div>
+{{ end }}

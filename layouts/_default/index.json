@@ -1,0 +1,17 @@
+[
+{{ range $i, $e := .Site.RegularPages }}
+  {{ if $i }},{{ end }}
+  {
+    "title": {{ $e.Title | jsonify }},
+    "permalink": {{ $e.Permalink | jsonify }},
+    "summary": {{ $e.Summary | plainify | jsonify }},
+    "description": {{ $e.Description | jsonify }},
+    "keywords": {{ $e.Params.keywords | jsonify }},
+    "synonyms": {{ $e.Params.search_synonyms | jsonify }},
+    "tags": {{ $e.Params.tags | jsonify }},
+    "category": {{ $e.Params.categories | jsonify }},
+    "provider": {{ $e.Params.provider | jsonify }},
+    "content": {{ $e.RawContent | plainify | jsonify }}
+  }
+{{ end }}
+]

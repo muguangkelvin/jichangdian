@@ -1,0 +1,26 @@
+{{ define "main" }}
+<div class="container section-padding">
+  <div class="section-header">
+    <h1 class="section-h1">{{ .Title }}</h1>
+    <p class="section-desc">{{ .Description | default "高质量机场测评、梯子选购对比与客户端配置保姆级指南" }}</p>
+  </div>
+
+  <div class="post-cards-list">
+    {{ range .Pages }}
+      <article class="post-card">
+        <div class="card-header">
+          <span class="badge-pill">{{ with .Params.categories }}{{ index . 0 }}{{ else }}新手入门{{ end }}</span>
+        </div>
+        <h2 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        {{ $rawSummary := .Summary | plainify }}
+        {{ $cleanSummary := replaceRE "^[0-9]+\\.[^。！？]+[。！？]?" "" $rawSummary }}
+        <p class="card-excerpt">{{ $cleanSummary | truncate 90 }}</p>
+        <div class="card-footer">
+          <span class="card-date">更新: {{ .Date.Format "2006-01-02" }}</span>
+          <a href="{{ .RelPermalink }}" class="card-readmore">阅读全文 ➔</a>
+        </div>
+      </article>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

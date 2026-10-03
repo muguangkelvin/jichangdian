@@ -1,0 +1,21 @@
+baseURL = 'https://jichangdian.xyz/'
+locale = 'zh-CN'
+title = '机场典 - 小白必备的魔法上网与高性价比机场推荐平台'
+relativeURLs = true
+
+[params]
+  description = "机场典 专注面向科学上网与网络加速小白用户的机场测评与选购指导，包含2026好用机场推荐、Clash/Sing-box/Shadowrocket配置教程及高性价比梯子节点选购指南。"
+  tgLink = "https://t.me/+JngXxDbAxwA5NzVl"
+  heroH1 = "新手选机场不踩坑：高性价比魔法梯子评测与一站式配置教程"
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

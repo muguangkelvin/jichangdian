@@ -1,0 +1,299 @@
+{
+  "total_articles": 32,
+  "modified_articles": 32,
+  "previously_duplicate_articles_count": 32,
+  "duplicate_bodies_count": 0,
+  "duplicate_intros_count": 0,
+  "duplicate_h2s_count": 0,
+  "duplicate_descs_count": 0,
+  "articles": [
+    {
+      "slug": "jichang-tuijian/2026-xingshijabi-jichang-tuijian-bangdan",
+      "url": "/posts/jichang-tuijian/2026-xingshijabi-jichang-tuijian-bangdan/",
+      "title": "2026好用机场推荐精选榜单：按需求挑选极佳稳定性梯子",
+      "primary_kw": "2026好用机场推荐",
+      "search_intent": "针对不同用户群体需求（AI办公、4K追剧、低预算学生党）推荐2026年综合性价比最高的机场榜单",
+      "desc": "2026好用机场推荐精选榜单，根据线路稳定性、晚高峰丢包率、原生IP解锁及单GB单价，盘点灵动云、飞猫云等高性价比科学上网加速服务。",
+      "char_count": 1453
+    },
+    {
+      "slug": "jichang-tuijian/4k-liumeiti-jiewang-jichang-ceping",
+      "url": "/posts/jichang-tuijian/4k-liumeiti-jiewang-jichang-ceping/",
+      "title": "适合看YouTube和Netflix的4K流媒体解锁机场测评",
+      "primary_kw": "4K流媒体解锁机场测评",
+      "search_intent": "测评并推荐适合观看 YouTube 4K/8K、Netflix、Disney+ 等海外流媒体的高带宽解锁机场",
+      "desc": "适合看 YouTube 和 Netflix 的 4K 流媒体解锁机场测评，实测晚高峰码率、节点解锁完整度及 IPLC 专线表现，精选暮光网络、灵动云等高带宽机场。",
+      "char_count": 1039
+    },
+    {
+      "slug": "jichang-tuijian/ai-bangong-jichang-tuijian-kuajing-xiezuo",
+      "url": "/posts/jichang-tuijian/ai-bangong-jichang-tuijian-kuajing-xiezuo/",
+      "title": "AI 办公机场推荐：跨境协作、代码工具与多设备需求比较",
+      "primary_kw": "AI 办公机场推荐",
+      "search_intent": "针对企业团队与个人开发者在 AI 办公、跨境协作工具及多设备并发场景下的机场选择指南",
+      "desc": "AI 办公机场推荐指南，针对 GitHub Copilot、Notion AI、Slack 及多设备并发办公场景，测评高稳定性、多 IP 连线与极低丢包的专线机场。",
+      "char_count": 709
+    },
+    {
+      "slug": "jichang-tuijian/ai-gongju-shiyong-changjing-jichang-xuanze",
+      "url": "/posts/jichang-tuijian/ai-gongju-shiyong-changjing-jichang-xuanze/",
+      "title": "AI 工具使用场景怎么选机场：地区节点、IP 质量、延迟与设备兼容",
+      "primary_kw": "AI工具使用场景机场选择",
+      "search_intent": "根据不同的 AI 工具使用场景（文本对话、绘图、代码补全、语音交互）指导用户精准选择机场节点",
+      "desc": "AI 工具使用场景怎么选机场指南，深入分析 ChatGPT、Claude、Midjourney、Suno 及 Cursor 编辑器在不同使用场景下对节点地区、IP 质量与延迟的具体要求。",
+      "char_count": 916
+    },
+    {
+      "slug": "jichang-tuijian/ai-jichang-tuijian-chatgpt-claude-gemini-nodes",
+      "url": "/posts/jichang-tuijian/ai-jichang-tuijian-chatgpt-claude-gemini-nodes/",
+      "title": "AI 机场推荐：ChatGPT、Claude、Gemini 等大模型专用原生IP节点",
+      "primary_kw": "AI 机场推荐",
+      "search_intent": "推荐适合使用 OpenAI ChatGPT、Anthropic Claude 及 Google Gemini 等 AI 大模型的专用原生 IP 机场",
+      "desc": "AI 机场推荐指南，实测支持 ChatGPT、Claude 3.5 Sonnet、Gemini 原生 IP 解锁的优质机场，解决 Access Denied 报错与账号风控问题。",
+      "char_count": 1338
+    },
+    {
+      "slug": "jichang-tuijian/beiyong-jichang-tuijian-fangshilian-zhuanxian",
+      "url": "/posts/jichang-tuijian/beiyong-jichang-tuijian-fangshilian-zhuanxian/",
+      "title": "备用机场梯子怎么选：防失联与高可用中转线路搭建",
+      "primary_kw": "备用机场梯子推荐",
+      "search_intent": "指导用户如何准备备用机场与防失联方案，确保主线路遭遇特殊时期或故障时网络不中断",
+      "desc": "备用机场梯子怎么选与防失联指南，教你如何配置双订阅高可用备用线路、挑选平价备用机场及建立防失联沟通渠道。",
+      "char_count": 1068
+    },
+    {
+      "slug": "jichang-tuijian/quanwang-28-jichang-ceping-dahaheji",
+      "url": "/posts/jichang-tuijian/quanwang-28-jichang-ceping-dahaheji/",
+      "title": "2026年全网28家热门机场测评大合集：速度、价格、节点与注册链接保姆级指南",
+      "primary_kw": "28家热门机场测评",
+      "search_intent": "汇总全网28家主流正规机场的价格、流量、线路特色及官网优惠链接，为用户提供一站式对比与注册参考",
+      "desc": "2026全网28家热门机场测评大合集，包含灵动云、飞猫云、暮光网络、微风网络等28家正规机场的最新价格、流量、专线线路特色及独家8折优惠码。",
+      "char_count": 4994
+    },
+    {
+      "slug": "jichang-tuijian/xinhao-peizhi-xioshou-jichang-xuanzhe-banmuji",
+      "url": "/posts/jichang-tuijian/xinhao-peizhi-xioshou-jichang-xuanzhe-banmuji/",
+      "title": "小白新手如何选择好用的魔法机场：避坑选购五大要素",
+      "primary_kw": "新手如何选择魔法机场",
+      "search_intent": "为完全没有科学上网经验的新手小白提供选购机场的避坑原则与五大核心考量要素",
+      "desc": "小白新手如何选择好用的魔法机场保姆级指南，手把手教你避开虚标流量、跑路风险与高倍率陷阱，掌握挑选稳定靠谱机场的五大核心要素。",
+      "char_count": 1412
+    },
+    {
+      "slug": "jichang-tuijian/yuancheng-bangong-gaosudaikuan-jichang-ceping",
+      "url": "/posts/jichang-tuijian/yuancheng-bangong-gaosudaikuan-jichang-ceping/",
+      "title": "远程办公与跨境团队加速机场推荐：高带宽低丢包节点测试",
+      "primary_kw": "远程办公加速机场推荐",
+      "search_intent": "为远程办公人员、跨境电商从业者及外贸团队提供高带宽、低丢包、高 SLA 保障的专线机场推荐",
+      "desc": "远程办公与跨境团队加速机场推荐，实测各大高带宽低丢包 IPLC 专线机场，满足 Zoom 视频会议、GitHub 代码提交、Slack 实时协作等企业级需求。",
+      "char_count": 1261
+    },
+    {
+      "slug": "jichang-tuijian/yuefu-jichang-tuijian-dibuyusuan-shouxuan",
+      "url": "/posts/jichang-tuijian/yuefu-jichang-tuijian-dibuyusuan-shouxuan/",
+      "title": "便宜好用的包月梯子推荐：低预算学生党平价机场精选",
+      "primary_kw": "便宜好用包月梯子推荐",
+      "search_intent": "推荐适合学生党与预算有限用户的便宜好用包月梯子与平价机场",
+      "desc": "便宜好用的包月梯子推荐与平价机场精选，专门针对低预算与学生党用户，精选飞猫云、灵动云等10元-20元档位平价稳定机场。",
+      "char_count": 1086
+    },
+    {
+      "slug": "kehuduan-peizhi/android-surfboard-v2rayng-dingyue-daoru",
+      "url": "/posts/kehuduan-peizhi/android-surfboard-v2rayng-dingyue-daoru/",
+      "title": "Android安卓手机 Surfboard 与 v2rayNG 订阅导入教学",
+      "primary_kw": "安卓客户端订阅导入",
+      "search_intent": "教Android安卓手机用户使用Surfboard(冲浪板)与v2rayNG导入机场订阅并解决后台被系统杀死的问题",
+      "desc": "Android 安卓手机 Surfboard 与 v2rayNG 订阅导入教学，包含冲浪板与 v2rayNG 下载安装、一键导入机场订阅、分应用代理及后台电池优化保活设置。",
+      "char_count": 890
+    },
+    {
+      "slug": "kehuduan-peizhi/clash-for-windows-shiyong-jiaocheng-yu-faq",
+      "url": "/posts/kehuduan-peizhi/clash-for-windows-shiyong-jiaocheng-yu-faq/",
+      "title": "Clash for Windows使用教程与常见报错解决指南",
+      "primary_kw": "Clash for Windows使用教程",
+      "search_intent": "梳理经典软件Clash for Windows(CFW)的使用步骤、端口冲突排查及迁移至Clash Verge的建议",
+      "desc": "Clash for Windows 使用教程与常见报错解决指南，包含 CFW 基础配置、订阅导入、System Proxy 开启失败、Port 7890 端口占用排查及无缝迁移至 Clash Verge Rev 指南。",
+      "char_count": 876
+    },
+    {
+      "slug": "kehuduan-peizhi/clash-meta-singbox-duibi-yu-xuanze",
+      "url": "/posts/kehuduan-peizhi/clash-meta-singbox-duibi-yu-xuanze/",
+      "title": "Clash Meta与Sing-box内核对比：哪个客户端更适合新手？",
+      "primary_kw": "Clash Meta与Singbox对比",
+      "search_intent": "深度对比Clash Meta (Mihomo) 内核与 Sing-box 内核在性能、协议支持、易用性与规则生态上的异同",
+      "desc": "Clash Meta (Mihomo) 与 Sing-box 内核对比指南，深度测评两大主流代理内核在内存占用、Hysteria2/TUIC 新协议支持、规则分流生态及新手易用性上的差异，帮选出最适合自己的客户端。",
+      "char_count": 1102
+    },
+    {
+      "slug": "kehuduan-peizhi/clash-verge-peizhi-jiaocheng-xiaobai-ban",
+      "url": "/posts/kehuduan-peizhi/clash-verge-peizhi-jiaocheng-xiaobai-ban/",
+      "title": "Clash Verge配置教程小白版：汉化设置、订阅导入与规则分流",
+      "primary_kw": "Clash Verge配置教程小白版",
+      "search_intent": "提供Windows与macOS平台下Clash Verge Rev极简安装、汉化设置、订阅导入与TUN模式开启指南",
+      "desc": "Clash Verge Rev配置教程小白保姆级指南，手把手教你在Windows与macOS上下载安装、开启中文界面、导入机场订阅链接及开启TUN模式全全局接管。",
+      "char_count": 1340
+    },
+    {
+      "slug": "kehuduan-peizhi/mac-m-chip-clash-verge-rev-peizhi-zhinan",
+      "url": "/posts/kehuduan-peizhi/mac-m-chip-clash-verge-rev-peizhi-zhinan/",
+      "title": "macOS苹果电脑 Clash Verge Rev 原生配置指南",
+      "primary_kw": "Mac Clash Verge配置指南",
+      "search_intent": "为macOS系统（包含Apple M1/M2/M3/M4芯片）用户提供Clash Verge Rev原生架构下载、授权与TUN模式配置教程",
+      "desc": "macOS 苹果电脑 Clash Verge Rev 原生配置指南，适配 Apple Silicon M1/M2/M3/M4 芯片架构，手把手教你解决安装提示已损坏、授权 TUN 模式及系统代理配置。",
+      "char_count": 902
+    },
+    {
+      "slug": "kehuduan-peizhi/shadowrocket-xiaohuojian-jiedian-daoru-jiaocheng",
+      "url": "/posts/kehuduan-peizhi/shadowrocket-xiaohuojian-jiedian-daoru-jiaocheng/",
+      "title": "Shadowrocket小火箭节点导入教程：iOS苹果设备魔法上网指南",
+      "primary_kw": "Shadowrocket小火箭节点导入教程",
+      "search_intent": "手把手教iOS苹果手机/iPad用户下载小火箭Shadowrocket，并通过一键导入/扫码完成配置",
+      "desc": "Shadowrocket小火箭节点导入保姆级教程，教你如何在iPhone、iPad及Apple TV上下载安装小火箭、使用一键链接/二维码导入机场节点及设置按需连接。",
+      "char_count": 852
+    },
+    {
+      "slug": "kehuduan-peizhi/sing-box-dingyue-daoru-yu-huanjing-peizhi",
+      "url": "/posts/kehuduan-peizhi/sing-box-dingyue-daoru-yu-huanjing-peizhi/",
+      "title": "Sing-box订阅导入教程：新一代通用内核客户端配置手册",
+      "primary_kw": "Sing-box订阅导入教程",
+      "search_intent": "指导用户配置新一代跨平台核心代理工具Sing-box，导入机场订阅并设置Hysteria2/TUIC协议",
+      "desc": "Sing-box订阅导入保姆级教程，详细讲解新一代通用代理内核在Windows、Mac及移动端上的配置步骤、Hysteria2/TUIC协议支持与规则分流。",
+      "char_count": 906
+    },
+    {
+      "slug": "kehuduan-peizhi/v2rayn-dingyue-lianjie-zenmeyong-peizhi-shouce",
+      "url": "/posts/kehuduan-peizhi/v2rayn-dingyue-lianjie-zenmeyong-peizhi-shouce/",
+      "title": "v2rayN订阅链接怎么用：Windows电脑端极简配置图文教程",
+      "primary_kw": "v2rayN订阅链接怎么用",
+      "search_intent": "为Windows电脑用户提供经典代理软件v2rayN的下载、订阅链接添加、Core内核更新及路由设置教学",
+      "desc": "v2rayN订阅链接怎么用？Windows 电脑端极简配置图文教程，包含 v2rayN 最新版下载安装、添加机场订阅 URL、更新 Xray 内核及开启系统代理排错指南。",
+      "char_count": 814
+    },
+    {
+      "slug": "rumen-jiaocheng/goubmai-jichang-qian-de-fangken-chake-qingdan",
+      "url": "/posts/rumen-jiaocheng/goubmai-jichang-qian-de-fangken-chake-qingdan/",
+      "title": "购买机场前的防坑检查清单：退款规则与试用期须知",
+      "primary_kw": "购买机场防坑检查清单",
+      "search_intent": "提供下单前必须核对的 7 项防坑检查清单，涵盖退款条款、支付安全、客服响应及跑路风控",
+      "desc": "购买机场前的防坑检查清单，总结下单前必须核对的 7 大核心细节，包含试用期测试、退款政策、支付渠道安全、优惠码折扣核销及防跑路避坑指南。",
+      "char_count": 927
+    },
+    {
+      "slug": "rumen-jiaocheng/jichang-dingyue-lianjie-shiyong-jiqiao",
+      "url": "/posts/rumen-jiaocheng/jichang-dingyue-lianjie-shiyong-jiqiao/",
+      "title": "机场订阅链接是什么？一文教你搞懂托管URL与节点更新",
+      "primary_kw": "机场订阅链接是什么",
+      "search_intent": "深入讲解机场订阅链接（Subscription URL）的原理、托管更新机制、不同客户端格式差异及安全保护技巧",
+      "desc": "机场订阅链接是什么？一文教你搞懂托管 URL 与节点更新原理，详细讲解订阅链接的工作机制、自动更新设置、链接泄露风险防范及报错解决方法。",
+      "char_count": 941
+    },
+    {
+      "slug": "rumen-jiaocheng/jichang-jiedian-beilv-yu-yanchi-anli-jiangjie",
+      "url": "/posts/rumen-jiaocheng/jichang-jiedian-beilv-yu-yanchi-anli-jiangjie/",
+      "title": "机场节点倍率与延迟案例讲解：如何避免流量被快速扣完",
+      "primary_kw": "机场节点倍率与延迟案例",
+      "search_intent": "通过真实案例拆解节点倍率计算与 PING 延迟的物理含义，帮助用户避免流量被快速扣完并挑选最佳节点",
+      "desc": "机场节点倍率与延迟案例讲解，通过真实计算案例拆解高倍率节点的流量扣除陷阱、解密 PING 延迟与真实下载速度的关系，教你如何科学选择节点。",
+      "char_count": 1015
+    },
+    {
+      "slug": "rumen-jiaocheng/jichang-taocan-liuliang-zhesuan-guize",
+      "url": "/posts/rumen-jiaocheng/jichang-taocan-liuliang-zhesuan-guize/",
+      "title": "机场套餐流量与计费规则讲解：倍率、重置日与共享账号解析",
+      "primary_kw": "机场套餐流量计费规则",
+      "search_intent": "详细讲解机场套餐的流量扣除规则、1x/2x/0.5x节点倍率机制、月度重置日算法及异地连线限制",
+      "desc": "机场套餐流量与计费规则讲解，深入拆解 1x/2x 节点倍率计算公式、月度流量重置日扣费逻辑、异地 IP 共享账号封禁规则及流量估算方法。",
+      "char_count": 960
+    },
+    {
+      "slug": "rumen-jiaocheng/kexue-shangwang-ruhe-xuanze-haoyong-jichang",
+      "url": "/posts/rumen-jiaocheng/kexue-shangwang-ruhe-xuanze-haoyong-jichang/",
+      "title": "科学上网教程：新手小白第一次选购机场完整指南",
+      "primary_kw": "科学上网选购机场指南",
+      "search_intent": "为第一次选购机场的新手提供从认识机场、选择套餐、注册付款、获取订阅到导入客户端的全流程路线图",
+      "desc": "科学上网教程：新手小白第一次选购机场完整指南，提供从零开始认识机场、选择合适套餐、完成注册付款、导入订阅到解决连线问题的全流程路线图。",
+      "char_count": 1093
+    },
+    {
+      "slug": "rumen-jiaocheng/mianfei-tizi-yu-fufei-jichang-qubie-fenxi",
+      "url": "/posts/rumen-jiaocheng/mianfei-tizi-yu-fufei-jichang-qubie-fenxi/",
+      "title": "免费梯子与付费机场的区别：为什么不推荐使用公开免费节点",
+      "primary_kw": "免费梯子与付费机场的区别",
+      "search_intent": "深入分析公开免费梯子/节点的运作真相、安全风险、隐私泄露与速度缺陷，对比付费正规机场的优势",
+      "desc": "免费梯子与付费机场的区别深度解析，揭秘免费梯子背后的广告弹窗、流量监听、隐私数据泄露风险及极差的稳定性，说明为什么付费正规机场是安全上网唯一选择。",
+      "char_count": 965
+    },
+    {
+      "slug": "rumen-jiaocheng/mofa-shangwang-xinshou-saomang-jiaocheng",
+      "url": "/posts/rumen-jiaocheng/mofa-shangwang-xinshou-saomang-jiaocheng/",
+      "title": "魔法上网新手扫扫盲教程：从基础概念到安全防坑须知",
+      "primary_kw": "魔法上网新手扫盲",
+      "search_intent": "为零基础新手通俗易懂地讲解魔法上网、机场、VPN、Clash 及节点订阅的基本概念与安全规范",
+      "desc": "魔法上网新手扫盲教程，用通俗语言讲解科学上网、机场、梯子、VPN、Clash 客户端及订阅链接的本质区别与防坑须知。",
+      "char_count": 1206
+    },
+    {
+      "slug": "rumen-jiaocheng/tizi-zenmeyong-xiazai-peizhi-yitian-xuehui",
+      "url": "/posts/rumen-jiaocheng/tizi-zenmeyong-xiazai-peizhi-yitian-xuehui/",
+      "title": "小白用什么梯子最稳定：一天学会下载配置与节点切换",
+      "primary_kw": "小白用什么梯子最稳定",
+      "search_intent": "解答新手关于‘用什么梯子最稳定’的疑问，并手把手提供1天内完成客户端下载、订阅导入及节点切换的傻瓜教程",
+      "desc": "小白用什么梯子最稳定？一篇文章教你如何在一天内学会下载安装客户端、导入机场订阅链接、切换低延迟节点及解决常见打不开网页问题。",
+      "char_count": 1082
+    },
+    {
+      "slug": "zhuanxian-xingjiabi/daliuliang-jichang-taocan-xingjiabi-ceping",
+      "url": "/posts/zhuanxian-xingjiabi/daliuliang-jichang-taocan-xingjiabi-ceping/",
+      "title": "大流量套餐性价比对比：BT下载与高清视频加速梯子盘点",
+      "primary_kw": "大流量机场套餐性价比",
+      "search_intent": "为有大流量需求（BT下载、4K/8K视频流媒体重度看剧、大文件同步）的用户提供高性价比大流量套餐推荐",
+      "desc": "大流量套餐性价比对比，针对 BT 下载、4K/8K 视频重度追剧及大文件同步需求，盘点单 GB 单价极低且无流量虚标的优质大流量机场。",
+      "char_count": 869
+    },
+    {
+      "slug": "zhuanxian-xingjiabi/duoshebei-gonxiang-jichang-dingyue-peizhi",
+      "url": "/posts/zhuanxian-xingjiabi/duoshebei-gonxiang-jichang-dingyue-peizhi/",
+      "title": "多设备共享机场订阅配置：家庭与小团队多终端连线方案",
+      "primary_kw": "多设备共享机场订阅配置",
+      "search_intent": "为家庭用户与多设备办公场景提供多终端共享机场订阅的解决方案，包含软路由(OpenWrt)部署与IP连线限制突破",
+      "desc": "多设备共享机场订阅配置指南，教你如何通过 OpenWrt 软路由全家共享、在多台 Windows/Mac/手机上配置独立客户端及避免触犯机场并发 IP 封禁规则。",
+      "char_count": 1143
+    },
+    {
+      "slug": "zhuanxian-xingjiabi/iplc-iepl-zhuanxian-jichang-yu-bgp-zhongzhuan-qubie",
+      "url": "/posts/zhuanxian-xingjiabi/iplc-iepl-zhuanxian-jichang-yu-bgp-zhongzhuan-qubie/",
+      "title": "IPLC专线机场与BGP中转的区别：为什么专线晚高峰不卡顿？",
+      "primary_kw": "IPLC专线机场与BGP中转区别",
+      "search_intent": "深入物理线路层原理，对比IPLC/IEPL国际内网专线与BGP公网中转在延迟、丢包率及防封锁上的本质差异",
+      "desc": "IPLC 专线机场与 BGP 中转的区别深度解析，从物理光纤架构、GFW 审查机制、晚高峰丢包率及 PING 延迟四个维度说明为什么 IPLC 专线晚高峰绝不卡顿。",
+      "char_count": 1100
+    },
+    {
+      "slug": "zhuanxian-xingjiabi/nianfu-jichang-yu-yuefu-jichang-youd缺点-fenxi",
+      "url": "/posts/zhuanxian-xingjiabi/nianfu-jichang-yu-yuefu-jichang-youd缺点-fenxi/",
+      "title": "年付机场与月付机场优缺点分析：如何根据资金风险进行选择",
+      "primary_kw": "年付机场与月付机场对比",
+      "search_intent": "深度剖析年付机场套餐与月付机场套餐各自的优缺点、折扣力度与资金风险控制方法",
+      "desc": "年付机场与月付机场优缺点分析，从资金安全、折扣力度、稳定性测试及防跑路四个维度，教你如何科学选择订阅周期与控制资金风险。",
+      "char_count": 926
+    },
+    {
+      "slug": "zhuanxian-xingjiabi/piany-haoyong-tizi-tuijian-10yuan-yixia-jichang",
+      "url": "/posts/zhuanxian-xingjiabi/piany-haoyong-tizi-tuijian-10yuan-yixia-jichang/",
+      "title": "便宜好用梯子推荐：10元以下平价高性价比机场实测",
+      "primary_kw": "便宜好用梯子推荐",
+      "search_intent": "实测并推荐月费在10元以下（或年付折合每月10元以内）的便宜好用平价梯子与机场",
+      "desc": "便宜好用梯子推荐与 10 元以下平价机场实测，专门盘点飞猫云、二猫云等超低预算梯子，分析低单价套餐的优势与适用场景。",
+      "char_count": 781
+    },
+    {
+      "slug": "zhuanxian-xingjiabi/wangao-feng-cesu-jichang-shuju-yu-shangwang-tiyan",
+      "url": "/posts/zhuanxian-xingjiabi/wangao-feng-cesu-jichang-shuju-yu-shangwang-tiyan/",
+      "title": "晚高峰不卡顿机场测速：丢包率、延迟与油管4K码率深度测评",
+      "primary_kw": "晚高峰不卡顿机场测速",
+      "search_intent": "展示在晚上20:00-23:00晚高峰拥堵时段对各大机场进行的物理延迟、丢包率及YouTube 4K码率测速数据",
+      "desc": "晚高峰不卡顿机场测速报告，展示晚高峰 20:00-23:00 拥堵时段实测数据，对比灵动云、暮光网络等机场在丢包率、PING 延迟及 YouTube 4K 码率上的真实表现。",
+      "char_count": 1056
+    }
+  ]
+}

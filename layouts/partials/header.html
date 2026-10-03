@@ -1,0 +1,42 @@
+<header class="site-header">
+  <div class="header-container">
+    <div class="header-left">
+      <a href="/" class="brand-logo">
+        <span class="logo-icon">⚡</span>
+        <span class="logo-text">机场典</span>
+      </a>
+      <span class="brand-subtext">小白必备魔法上网与机场选购指南</span>
+    </div>
+    
+    <nav class="header-nav">
+      <a href="/" class="nav-item">首页</a>
+      <a href="/posts/jichang-tuijian/" class="nav-item">机场推荐精选</a>
+      <a href="/posts/rumen-jiaocheng/" class="nav-item">小白上手指南</a>
+      <a href="/posts/kehuduan-peizhi/" class="nav-item">客户端配置</a>
+      <a href="/posts/zhuanxian-xingjiabi/" class="nav-item">专线与性价比</a>
+      <a href="/faq/" class="nav-item">常见问题解答</a>
+      <a href="/services/" class="nav-item highlight-nav">本站自营服务</a>
+    </nav>
+
+    <div class="header-right">
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="搜索机场/教程 (Ctrl+K)..." autocomplete="off" />
+        <button id="searchBtn" aria-label="搜索">🔍</button>
+      </div>
+      <a href="https://t.me/+JngXxDbAxwA5NzVl" target="_blank" rel="noopener noreferrer" class="btn btn-tg">
+        <span class="tg-icon">✈️</span> TG客服与频道
+      </a>
+    </div>
+  </div>
+</header>
+
+<!-- Search Modal -->
+<div id="searchModal" class="search-modal" style="display:none;">
+  <div class="search-modal-content">
+    <div class="search-modal-header">
+      <input type="text" id="modalSearchInput" placeholder="输入搜索关键词，如 Clash / 专线 / 节点..." />
+      <button id="closeSearchModal">&times;</button>
+    </div>
+    <div id="searchResults" class="search-results-container"></div>
+  </div>
+</div>

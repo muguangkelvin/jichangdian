@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="container section-padding">
+  <div class="faq-page-header">
+    <h1>❓ 常见问题解答 (100个小白热点痛点解答)</h1>
+    <p>手把手解答机场订阅导入、节点超时排查、晚高峰卡顿优化、流媒体解锁故障与客户端基础报错等常见疑问。</p>
+  </div>
+
+  <div class="faq-list-wrapper">
+    {{ range .Pages }}
+      <details class="faq-item-card" open>
+        <summary class="faq-question">
+          <span class="faq-q-icon">Q:</span> <strong>{{ .Title }}</strong>
+        </summary>
+        <div class="faq-answer-body">
+          {{ .Content }}
+        </div>
+      </details>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

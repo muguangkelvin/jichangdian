@@ -1,0 +1,83 @@
+{
+  "profileVersion": "1.0.0",
+  "siteTopic": "机场推荐与小白科学上网加速教程",
+  "primaryKeywords": [
+    "机场典",
+    "机场推荐",
+    "梯子推荐",
+    "魔法上网",
+    "魔法机场",
+    "科学上网新手教程",
+    "翻墙机场测评"
+  ],
+  "secondaryKeywords": [
+    "便宜机场选购",
+    "稳定节点购买",
+    "4K流媒体解锁机场",
+    "IPLC专线机场",
+    "游戏加速机场",
+    "晚高峰不卡顿机场",
+    "客户端订阅导入"
+  ],
+  "longTailKeywords": [
+    "新手如何选择好用的魔法机场",
+    "小白用什么梯子最稳定",
+    "v2rayN订阅链接怎么用",
+    "Shadowrocket小火箭节点导入教程",
+    "Clash Verge配置教程小白版",
+    "适合看YouTube和Netflix的4K机场",
+    "便宜好用的包月梯子推荐"
+  ],
+  "heroKeywords": [
+    "机场典导航",
+    "2026好用机场推荐",
+    "魔法上网入门指引",
+    "高速稳定梯子测评",
+    "本站专享节点服务",
+    "客户端一键配置教程"
+  ],
+  "footerKeywords": [
+    "机场典官网",
+    "靠谱梯子推荐平台",
+    "魔法上网科普基地",
+    "科学上网防失联",
+    "客服支持与订阅咨询"
+  ],
+  "navigationItems": [
+    {
+      "label": "首页",
+      "url": "/",
+      "type": "home"
+    },
+    {
+      "label": "机场推荐精选",
+      "url": "/posts/jichang-tuijian/",
+      "articleCount": 10
+    },
+    {
+      "label": "小白上手指南",
+      "url": "/posts/rumen-jiaocheng/",
+      "articleCount": 8
+    },
+    {
+      "label": "客户端配置",
+      "url": "/posts/kehuduan-peizhi/",
+      "articleCount": 8
+    },
+    {
+      "label": "专线与性价比",
+      "url": "/posts/zhuanxian-xingjiabi/",
+      "articleCount": 6
+    },
+    {
+      "label": "常见问题解答",
+      "url": "/faq/",
+      "articleCount": 100
+    },
+    {
+      "label": "本站自营服务",
+      "url": "/services/",
+      "articleCount": 1
+    }
+  ]
+}

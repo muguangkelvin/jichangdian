@@ -1,0 +1,35 @@
+{{ define "main" }}
+<div class="article-container container">
+  <article class="single-article provider-article">
+    <header class="provider-header">
+      <div class="provider-badge">排名第 {{ .Params.rank }} 名</div>
+      <h1 class="provider-h1">{{ .Title }}</h1>
+      <div class="provider-summary-box">
+        <p><strong>参考价格：</strong> <span class="highlight-price">{{ .Params.price }}</span></p>
+        <p><strong>流量规格：</strong> {{ .Params.traffic }}</p>
+        <p><strong>专属优惠码：</strong> <code>{{ .Params.coupon }}</code> ({{ .Params.coupon_note }})</p>
+        <p><strong>主要特色：</strong> {{ .Params.features }}</p>
+        <p><strong>适合场景：</strong> {{ .Params.suitable }}</p>
+      </div>
+
+      <div class="provider-action-top">
+        <a href="{{ .Params.affiliate_url }}" target="_blank" rel="sponsored nofollow noopener" class="btn btn-primary btn-lg">
+          前往 {{ .Title }} 官网领优惠注册 ➔
+        </a>
+      </div>
+    </header>
+
+    <div class="article-body">
+      {{ .Content }}
+    </div>
+
+    <div class="provider-bottom-cta">
+      <h3>🚀 准备好体验 {{ .Title }} 的稳定节点了吗？</h3>
+      <p>点击下方按钮直接跳转官网注册，结账时别忘了使用优惠码 <code>{{ .Params.coupon }}</code> 享受折扣！</p>
+      <a href="{{ .Params.affiliate_url }}" target="_blank" rel="sponsored nofollow noopener" class="btn btn-primary btn-xl">
+        立即访问 {{ .Title }} 官网注册账号 ➔
+      </a>
+    </div>
+  </article>
+</div>
+{{ end }}
